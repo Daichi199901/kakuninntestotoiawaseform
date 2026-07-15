@@ -13,5 +13,5 @@ sail artisan migrate
 Laravel
 
 ## ER図
-<img width="452" height="481" alt="Image" src="https://github.com/user-attachments/assets/185e4345-e521-4c5c-b544-39ed9b95c1d8" />
+<img width="645" height="479" alt="Image" src="https://github.com/user-attachments/assets/a65d79ce-5e8b-4d76-b69f-f40b01aa083e" />
 ## URL
