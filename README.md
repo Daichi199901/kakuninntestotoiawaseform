@@ -1,5 +1,5 @@
 # アプリケーション名
-お問い合わせフォーム
+COACHTECHお問い合わせフォーム
 
 
 ## 環境構築
@@ -22,7 +22,9 @@ $$開発環境
 ・phpMyAdmin:
 
 ## 使用技術（実行環境）
-Laravel 10.x
+PHP: 8.2
+Laravel: 10.x
+DB: MYSQL8.0
 
 ## ER図
 <img width="731" height="773" alt="Image" src="https://github.com/user-attachments/assets/a265514a-ce4f-461f-8834-a250185a2235" />
