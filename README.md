@@ -28,4 +28,5 @@ DB: MYSQL8.0
 
 ## ER図
 <img width="731" height="773" alt="Image" src="https://github.com/user-attachments/assets/a265514a-ce4f-461f-8834-a250185a2235" />
-## URL
+## 開発環境URL
+http://localhost/Form
